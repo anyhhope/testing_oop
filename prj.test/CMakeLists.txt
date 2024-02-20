@@ -1,0 +1,2 @@
+add_executable(test_complex test.cpp)
+target_link_libraries(test_complex complex)
